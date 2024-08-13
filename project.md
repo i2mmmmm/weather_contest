@@ -13,3 +13,4 @@ featrue engineering 단계에서 장마 변수, 통계적 파생 변수, 시계�
 **역할 :** (2인 팀) 데이터 분석 파트 (EDA, feature engineering, modeling)
 
 **깃허브 링크 :** https://github.com/i2mmmmm/weather_contest
+**PPT 링크 :** https://github.com/i2mmmmm/weather_contest/blob/main/4_발표ppt.pdf
